@@ -101,7 +101,7 @@ class Test_Assignment_01(unittest.TestCase):
 
     def test_type_conversion2(self):
         """
-        A poorly named function to test converting strings to numeric types
+        A poorly named function to test converting strings to numeric types 
         """
         k = "123"
         self.assertIsInstance(k, str)  # New assertion type that shortens previous calls
