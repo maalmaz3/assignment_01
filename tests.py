@@ -2,7 +2,7 @@ import unittest
 
 class Test_Assignment_01(unittest.TestCase):
     """
-    Below are a series of tests, some of which will fail. 
+    Below are a series of tests, some of which will fail.
 
     Automated testing will be performed when you submit a
     Pull Request and any time that you make any future
