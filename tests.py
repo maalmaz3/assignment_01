@@ -84,7 +84,7 @@ class Test_Assignment_01(unittest.TestCase):
         self.assertTrue(type(big), int)
 
         small = 1e-5
-        self.assertEqual(small, 0.0001)
+        self.assertEqual(small, 0.00001)
         self.assertTrue(type(small), int)
 
     def test_type_conversion(self):
